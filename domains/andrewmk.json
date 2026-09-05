@@ -3,7 +3,9 @@
         "username": "andrewmkbuilds",
         "email": "myidandy17@gmail.com"
     },
+    "proxied": true,
     "records": {
-        "A": ["216.198.79.1"]
+        "CNAME": "andrewmk.pages.dev",
+        "TXT": "google-site-verification=gIjlictmciPEZzTUQmtE60qdMqsIDGtTI6aUlP7c4Ss"
     }
 }
